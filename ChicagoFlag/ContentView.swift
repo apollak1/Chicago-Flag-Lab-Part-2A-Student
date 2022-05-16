@@ -1,6 +1,7 @@
 /*
- App Dev with SwiftUI I : Lab 2
- 
+################ Chicago Flag Lab 2A Student ################
+
+
  Here are the goals of this lab.
  
  1. When directed, you will take your Chicago flag code from Part1 and copy it below.  Make sure it looks right before going on. Do not do it yet.
